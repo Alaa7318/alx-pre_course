@@ -1,1 +1,1 @@
-.gitignore is a configuration file that specifie which files and directories git should ignore ahen tracking changes in a respository
+*~*
